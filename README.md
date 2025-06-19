@@ -71,9 +71,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is for educational and demonstration purposes. Licensing terms can be specified here.
+This project is for educational and demonstration purposes.
 
 ---
-
-> **Note:** This README was generated based on available metadata and project structure. For details on implementation, please review the codebase directly.  
-> View all files and project structure at: [GitHub Repository](https://github.com/TareqAlKushari/Flutter-E-Commerce-App)
