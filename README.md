@@ -69,8 +69,14 @@ Key dependencies as specified in `pubspec.yaml`:
 
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-## License
+## Author 🙋‍♂️
 
-This project is for educational and demonstration purposes.
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
+
+## License 📜
+
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+> If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
